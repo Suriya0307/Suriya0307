@@ -9,17 +9,17 @@
 ---
 
 ## 🧠 About Me  
- Third-year **B.Tech CSE (AI & ML)** student at **SRM Institute of Science and Technology**  
- Passionate about building **scalable web applications** and **AI-powered systems**  
- Strong foundation in **algorithms, databases, and deep learning**  
- Dedicated to solving **real-world problems** through **AI + modern software engineering**  
- Currently exploring **LangChain** and **Generative AI integrations**
+🎓 Third-year **B.Tech CSE (AI & ML)** student at **SRM Institute of Science and Technology**  
+💻 Passionate about building **scalable web applications** and **AI-powered systems**  
+🧩 Strong foundation in **algorithms, databases, and deep learning**  
+⚡ Dedicated to solving **real-world problems** through **AI + modern software engineering**  
+🌱 Currently exploring **LangChain** and **Generative AI integrations**
 
 ---
 
 ## 🛠️ Tech Stack & Tools  
 
-###  **Languages**
+### 💻 **Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -58,6 +58,18 @@
 
 ---
 
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=suriya0307&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=suriya0307&theme=radical" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suriya0307&theme=react-dark&hide_border=true" width="90%">
+</p>
+
+---
 
 ## 🌟 Featured Interests  
 💡 Full Stack Web Development  
@@ -77,12 +89,11 @@
 
 ---
 
+<!-- Footer GIF -->
+<p align="center">
+  <img src="![coffee](https://github.com/user-attachments/assets/69ade136-4cbc-4654-b06b-e7310b77408e)"
 
-
-                                                            ![coffee](https://github.com/user-attachments/assets/f3fe2f2e-0d4d-45f3-975b-b4221760174e)
-
-
-
+</p>
 
 <p align="center">
   <b>"Code Coffee Repeat."</b>
