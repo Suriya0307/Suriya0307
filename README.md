@@ -88,11 +88,9 @@
 </p>
 
 ---
-
 <!-- Footer GIF -->
 <p align="center">
-  <img src="![coffee](https://github.com/user-attachments/assets/69ade136-4cbc-4654-b06b-e7310b77408e)"
-
+  <img src="https://github.com/user-attachments/assets/69ade136-4cbc-4654-b06b-e7310b77408e" width="150" alt="coffee">
 </p>
 
 <p align="center">
